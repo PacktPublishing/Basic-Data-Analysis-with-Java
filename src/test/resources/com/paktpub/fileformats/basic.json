@@ -1,0 +1,7 @@
+{
+    "name": "Pakt Publishing",
+    "products":{
+        "books": "Printed or EBook",
+        "videos": "Online or mobile"
+    }
+}
